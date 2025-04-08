@@ -1,5 +1,4 @@
 db:
-  name: wp-database
   labels:
     app: db
     env: dev
